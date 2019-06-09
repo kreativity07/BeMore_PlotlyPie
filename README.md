@@ -1,6 +1,6 @@
-# Be More 
-## Copyright by Sneha Kundra
+# `Plotly Pie Chart`
 
+## `Be More` written by Sneha Kundra
 
 ### (Python)
 
